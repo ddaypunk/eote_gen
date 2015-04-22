@@ -1,6 +1,11 @@
 species = {
 	"Bothan" : {
-		"abilities" : [1,2,2,3,2,2],
+		"brawn" : 1,
+		"agility" : 2,
+		"intellect" : 2,
+		"cunning" : 3,
+		"willpower": 2,
+		"presence": 2,
 		"wound_threshold" : 10,
 		"strain_threshold" : 11,
 		"start_xp" : 100,
@@ -14,7 +19,12 @@ species = {
 		}
 	},
 	"Droid" : {
-		"abilities" : [1,1,1,1,1,1],
+		"brawn" : 1,
+		"agility" : 1,
+		"intellect" : 1,
+		"cunning" : 1,
+		"willpower": 1,
+		"presence": 1,
 		"wound_threshold" : 10,
 		"strain_threshold" : 10,
 		"start_xp" : 175,
