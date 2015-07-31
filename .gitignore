@@ -57,5 +57,8 @@ docs/_build/
 target/
 
 #Sublime Projects
-# *.sublime-project
-# *.sublime-workspace
+*.sublime-project
+*.sublime-workspace
+
+# OSX
+*.DS_Store
